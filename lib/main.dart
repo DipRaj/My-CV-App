@@ -64,7 +64,7 @@ class MyApp extends StatelessWidget {
                       Padding(
                         padding: EdgeInsets.only(left: 10.0),
                         child: Text(
-                          "Hello, I am Dip Raj. I am software and web developer. I am currently pursuing my bachelor's degree in Information Technology.",
+                          "Hello, I am Dip Raj. I am a software and web developer. I am currently pursuing my bachelor's degree in Information Technology.",
                           style: TextStyle(
                             fontSize: 16.0,
                             fontFamily: "ComicNeue",

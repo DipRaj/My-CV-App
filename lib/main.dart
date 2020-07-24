@@ -64,7 +64,7 @@ class MyApp extends StatelessWidget {
                       Padding(
                         padding: EdgeInsets.only(left: 10.0),
                         child: Text(
-                          "Hello, I am Dip. I am software and web developer. I am currently pursuing my bachelor's degree in Information Technology.",
+                          "Hello, I am Dip Raj. I am software and web developer. I am currently pursuing my bachelor's degree in Information Technology.",
                           style: TextStyle(
                             fontSize: 16.0,
                             fontFamily: "ComicNeue",
@@ -132,7 +132,7 @@ class MyApp extends StatelessWidget {
                         "https://codeit.com.np/storage/2019/11/web.jpg"),
                   ),
                   title: Text("Web Development"),
-                  subtitle: Text("HTML, CSS, JavaScript"),
+                  subtitle: Text("HTML, CSS, JavaScript, Node.js, Laravel, Django"),
                 ),
               ),
               Card(
@@ -144,7 +144,7 @@ class MyApp extends StatelessWidget {
                         "https://www.paymill.com/wp-content/uploads/2019/02/The-Technology-behind-App-Development.png"),
                   ),
                   title: Text("App Development"),
-                  subtitle: Text("Dart and Flutter"),
+                  subtitle: Text("Flutter"),
                 ),
               ),
               Card(
